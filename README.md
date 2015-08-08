@@ -1,7 +1,7 @@
 #About
 This project was completed in Fall of 2014 for my Game Engineering class. This game was written in C#, using Microsoft's Visual Studio and the XNA Game Studio.
 
-![Screenshot for StarfighterX](ShooterScreenshot.PNG)
+<center> ![Screenshot for StarfighterX](ShooterScreenshot.PNG) </center>
 
 
 #How To Play & Story
