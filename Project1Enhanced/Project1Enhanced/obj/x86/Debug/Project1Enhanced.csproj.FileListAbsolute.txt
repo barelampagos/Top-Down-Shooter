@@ -1,0 +1,16 @@
+c:\users\bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\obj\x86\Debug\Project1Enhanced.csprojResolveAssemblyReference.cache
+c:\users\bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Content\Spaceship.xnb
+c:\users\bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Content\Laserbeam.xnb
+c:\users\bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Content\Enemy.xnb
+c:\users\bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Project1Enhanced.exe
+c:\users\bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Project1Enhanced.pdb
+c:\users\bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\obj\x86\Debug\Project1Enhanced.exe
+c:\users\bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\obj\x86\Debug\Project1Enhanced.pdb
+c:\users\bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Content\CourierNew.xnb
+c:\users\bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Content\titleFont.xnb
+C:\Users\Bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Content\spacebackground.xnb
+C:\Users\Bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Content\EnemyLaserbeam.xnb
+C:\Users\Bryan\Documents\Visual Studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Content\PowerUp.xnb
+C:\Users\Bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Content\Boss.xnb

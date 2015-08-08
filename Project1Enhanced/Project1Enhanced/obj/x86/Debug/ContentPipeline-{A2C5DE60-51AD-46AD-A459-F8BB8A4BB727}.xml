@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Spaceship.png</Source>
+      <Name>Spaceship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Content\Spaceship.xnb</Output>
+      <Time>2014-09-16T19:29:39.643303-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Laserbeam.png</Source>
+      <Name>Laserbeam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Content\Laserbeam.xnb</Output>
+      <Time>2014-09-16T19:29:45.5596414-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy.png</Source>
+      <Name>Enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Content\Enemy.xnb</Output>
+      <Time>2014-09-19T00:19:10.9319285-07:00</Time>
+    </Item>
+    <Item>
+      <Source>CourierNew.spritefont</Source>
+      <Name>CourierNew</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Content\CourierNew.xnb</Output>
+      <Time>2014-09-16T19:32:01.5804213-07:00</Time>
+    </Item>
+    <Item>
+      <Source>titleFont.spritefont</Source>
+      <Name>titleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Content\titleFont.xnb</Output>
+      <Time>2014-09-17T00:44:47.7633287-07:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2014-09-17T18:49:29.7753614-07:00</Time>
+    </Item>
+    <Item>
+      <Source>spacebackground.png</Source>
+      <Name>spacebackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Content\spacebackground.xnb</Output>
+      <Time>2014-09-17T23:29:28.5560692-07:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyLaserbeam.png</Source>
+      <Name>EnemyLaserbeam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Content\EnemyLaserbeam.xnb</Output>
+      <Time>2014-09-18T01:07:36.1188185-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUp.png</Source>
+      <Name>PowerUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bryan\Documents\Visual Studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Content\PowerUp.xnb</Output>
+      <Time>2014-09-18T23:22:56.1479019-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss.png</Source>
+      <Name>Boss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Content\Boss.xnb</Output>
+      <Time>2014-09-22T18:01:07.195914-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{A2C5DE60-51AD-46AD-A459-F8BB8A4BB727}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1EnhancedContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Bryan\documents\visual studio 2013\Projects\Project1Enhanced\Project1Enhanced\Project1Enhanced\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-01T21:35:24.6778459-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
