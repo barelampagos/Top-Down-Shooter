@@ -1,17 +1,14 @@
-#About
+# About
 This project was completed in Fall of 2014 for my Game Engineering class. This game was written in C#, using Microsoft's Visual Studio and the XNA Game Studio.
 
-<center> ![Screenshot for StarfighterX](ShooterScreenshot.PNG) </center>
+![StarfighterX](ShooterScreenshot.PNG "Shooter")
 
 
-#How To Play & Story
+# How To Play
 You control the StarfighterX, a spaceship sent from Earth to an unexplored part of the Galaxy.
 
-##Controls:
-Left Key - Move Left
-Right Key - Move Right
-Up Key - Move Up
-Down Key - Move Down
+## Controls:
+Arrow Keys - Move
 Spacebar - Shoot Laser
 
 Enemies will be flying at you from the top of the screen,
@@ -19,12 +16,12 @@ and for every enemy you shoot, you will get 100 points added
 to your score. Everytime an enemy hits you, you will lose one of
 your three lives.
 
-##Tips:
+## Tips:
 - Every now and then, a trishot Powerup will appear. While the trishot powerup is active,
 you will be able to shoot 3 special laser shots that will spread in a wide range.
 - Keep an eye on the one up meter. Every 10 kills will add one to your armor's health.
 
-##Enemies:
+## Enemies:
 - Rammers: These high speed enemies will try to ram you from the front. Your best bet is to destroy them or
 to dodge them before they get a chance to hit you.
 - Shooters: These enemies are not as fast, but they will try to shoot at you from a distance.
